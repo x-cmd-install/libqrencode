@@ -7,7 +7,7 @@ about:
   head: 715e29f
   archived: false
   latestVersion: v4.1.1
-  collectedAt: 2026-09-04T19:18:55Z
+  collectedAt: 2026-09-04T21:13:43Z
 timeline:
   created: 2011-02-25
   lastCommit: 2020-09-28
@@ -86,6 +86,59 @@ total:
   openIssue: 50
   commit: 807
 ---
+path: /home/runner/.x-repo/github.com/fukuchi/libqrencode
+collectedAt: 2026-09-04T21:13:44Z
+loc:
+  C:
+    code: 11388
+    comments: 823
+    blanks: 1824
+    files: 32
+  Bitbake:
+    code: 1272
+    comments: 0
+    blanks: 1
+    files: 1
+  M4:
+    code: 1090
+    comments: 272
+    blanks: 29
+    files: 1
+  CHeader:
+    code: 392
+    comments: 888
+    blanks: 184
+    files: 15
+  CMake:
+    code: 314
+    comments: 16
+    blanks: 67
+    files: 3
+  Autoconf:
+    code: 137
+    comments: 0
+    blanks: 10
+    files: 2
+  Sh:
+    code: 128
+    comments: 9
+    blanks: 32
+    files: 6
+  Automake:
+    code: 102
+    comments: 0
+    blanks: 32
+    files: 2
+  Markdown:
+    code: 0
+    comments: 181
+    blanks: 50
+    files: 1
+total:
+  code: 14823
+  comments: 2189
+  blanks: 2229
+  files: 63
 ---
 date: "2026-08-24"
 repo:
