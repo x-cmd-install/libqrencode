@@ -228,4 +228,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 9 are checked with a SAST tool'
 ---
-{"id":31871090,"author":{"login":"fukuchi","id":637330,"node_id":"MDQ6VXNlcjYzNzMzMA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTMxODcxMDkw","tag_name":"v4.1.1","target_commitish":"master","name":"libqrencode 4.1.1 has been released","draft":false,"immutable":false,"prerelease":false,"created_at":"2020-09-28T05:42:00Z","updated_at":"2020-09-28T06:49:49Z","published_at":"2020-09-28T06:49:49Z","assets":[],"body":"* Some minor bugs in Micro QR Code generation have been fixed.\r\n  * The data capacity calculations are now correct. These bugs probably did not affect the Micro QR Code generation.\r\n","reactions":{"total_count":11,"+1":0,"-1":0,"laugh":2,"hooray":0,"confused":0,"heart":5,"rocket":3,"eyes":1}}
